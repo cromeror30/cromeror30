@@ -1,16 +1,15 @@
 
 # About Me:
 
-Hola Soy Carlos Romero
+Hola! Soy Carlos Romero.
 
+Actualmente, me desempeño como Consultor de Tecnologías en EY, ademas lidero proyectos de E-Commerce y Análisis de Datos utilizando Python y R.
 
+Me gradué como Ingeniero en Tecnologías de la Información y Comunicación en 2019, obteniendo mi título en la Universidad Tecnológica de Tecámac. Durante mis estudios, me especialicé en redes y telecomunicaciones, así como en virtualización. Posteriormente, amplié mis conocimientos mediante diversas certificaciones, incluyendo E-Commerce, Power Automate, Python y Ciencia de Datos.
 
+Siento una pasión innata por el aprendizaje continuo y me entusiasma mantenerme al tanto de las últimas tendencias tecnológicas. Siempre estoy buscando formas de mejorar mis habilidades y estar a la vanguardia en la industria.
 
-Actualmente soy Consultor de Tecnologías en EY y soy experto en proyectos de E-Commerce y Análisis de Datos en Python y R 
-
-Me recibí de Ingeniero En Tecnologias de la Información y Comunicación en 2019 en la Universidad Tecnologica de Tecámac, me especialice en redes y telecomunicaciones, Virtualización y luego realice varias certificaciones para E-Commerce, Power Automate, y certificaciones de Python y Ciencia de Datos.
-
-Me apasiona seguir aprendiendo cada dia, y siempre estar en busqueda de mejorar las habilidades y estar a la vanguardia de las ultimas tendencias de la industria y Tecnologícas
+¡No dudes en ponerte en contacto conmigo para colaboraciones o proyectos emocionantes!
 
 
 
@@ -23,11 +22,14 @@ Me apasiona seguir aprendiendo cada dia, y siempre estar en busqueda de mejorar 
 
 ## Certificaciones
 
-[![Certificado Linux](https://img.shields.io/badge/Certificados-Linux-green)](https://choosealicense.com/licenses/mit/)
-[![GPLv3 License](https://img.shields.io/badge/License-GPL%20v3-yellow.svg)](https://opensource.org/licenses/)
-[![AGPL License](https://img.shields.io/badge/license-AGPL-blue.svg)](http://www.gnu.org/licenses/agpl-3.0)
+[![Certificado Linux](https://img.shields.io/badge/Certificado-Linux-green)](https://choosealicense.com/licenses/mit/)
+[![Certificado SEO](https://img.shields.io/badge/Certificado-SEO-red.svg)](https://www.udemy.com/certificate/UC-e439f3c8-9bf1-4c24-a77d-16b20088bfac/)
+[![AGPL License](https://img.shields.io/badge/Certificado-UX-blue.svg)](https://www.udemy.com/certificate/UC-caa45f53-72b0-4f8a-9996-1308e7a7e618/)
+![Certificado Ciberseguridad](https://img.shields.io/badge/Certificado-Ciberseguridad-white)
+![Certificado AWS](https://img.shields.io/badge/Certificado-AWS-yellow)
 
 
+[![Certificado Linux](https://img.shields.io/badge/Premio-MesDatos-black) ](https://jumpnet.enjinx.io/eth/asset/60c0000000000031)
 
 ## Tech Stack
 
@@ -58,6 +60,7 @@ Me apasiona seguir aprendiendo cada dia, y siempre estar en busqueda de mejorar 
 ![Vue](https://img.shields.io/badge/Vue%20js-35495E?style=for-the-badge&logo=vuedotjs&logoColor=4FC08D)
 ![Paypal](https://img.shields.io/badge/PayPal-00457C?style=for-the-badge&logo=paypal&logoColor=white)
 ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+![CSS](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E)
 ![PHP](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white)
 ![Microsoft_SharePoint](https://img.shields.io/badge/Microsoft_SharePoint-0078D4?style=for-the-badge&logo=microsoft-sharepoint&logoColor=white)
