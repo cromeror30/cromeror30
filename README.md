@@ -16,7 +16,7 @@ Siento una pasión innata por el aprendizaje continuo y me entusiasma mantenerme
 
 ## 🔗 Socials
 
-[![linkedin]([https://camo.githubusercontent.com/d94940866c98cb4fca5783c4e8ac95776d2f52df6bbf3d5ab9e30d76836f30ae/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f4c696e6b6564496e2d2532333030373742352e7376673f6c6f676f3d6c696e6b6564696e266c6f676f436f6c6f723d7768697465)](https://www.linkedin.com/in/carlos-romero-rojas-01b69b161/](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white))
+[![linkedin]([https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/carlos-romero-rojas-01b69b161/](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white))
 
 
 
