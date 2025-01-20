@@ -76,7 +76,7 @@ Siento una pasión innata por el aprendizaje continuo y me entusiasma mantenerme
 
 📧 Si quieres charlar conmigo puedes contactarme directamente por Linkedin o enviarme un mail a cromeror30@gmail.com
 
-📊 En mis repositorios vas a encontrar algunas practicas que eh realizado: SQL, python, R, estadística, machine learning y visualización de datos.
+📊 En mis repositorios vas a encontrar algunas practicas que eh realizado: SQL, Python, R, Estadística, Machine Learning y visualización de datos.
 
 
 ![image](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=cromeror30&theme=radical)
